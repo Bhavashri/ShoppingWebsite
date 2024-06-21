@@ -1,0 +1,159 @@
+[
+    {
+        "id":0,
+        "image":"images/coat1.jpg",
+        "title": "Double-breasted trenchcoat",
+        "price": 2500
+    },
+    {
+        "id": 1,
+        "image": "images/s-pant1.jpg",
+        "title":"Sweatpants",
+        "price": 800
+    },
+    {
+        "id": 2,
+        "image": "images/sandal1.jpg",
+        "title":"Block-heeled sandals",
+        "price":1900
+    },
+    {
+        "id": 3,
+        "image": "images/h-pant1.jpg",
+        "title":"Denim shorts ",
+        "price":1500
+    },
+    {
+        "id": 4,
+        "image":"images/b-tshirt1.jpg",
+        "title":"Slim Fit T-shirt",
+        "price": 800
+    },
+    {
+        "id": 5,
+        "image": "images/cooler1.jpg",
+        "title":"Round sunglasses",
+        "price": 1000
+    },
+    {
+        "id": 6,
+        "image": "images/b-shirt1.jpg",
+        "title":"Regular Fit Oxford shirt",
+        "price": 900
+    },
+    {
+        "id": 7,
+        "image": "images/shoe-1.jpg",
+        "title":"Ballet pumps",
+        "price": 1200
+    },
+    {
+        "id":8 ,
+        "image": "images/b-shirt2.jpg",
+        "title":"Regular Fit Crinkled resort shirt ",
+        "price": 1000
+    },
+    {
+        "id": 9,
+        "image": "images/bag1.jpg",
+        "title":"Shopper",
+        "price": 700
+    },
+    {
+        "id": 10,
+        "image": "images/g-Sshirt1.jpg",
+        "title":"sweatshirt",
+        "price":  1200
+    },
+    {
+        "id": 11,
+        "image": "images/product-1.jpg",
+        "title":"Red Printed T-Shirt",
+        "price": 700
+    },
+    {
+        "id": 12,
+        "image": "images/product-14.jpg",
+        "title":"HandBages",
+        "price": 1700
+    },
+    {
+        "id": 13,
+        "image": "images/product-13.jpg",
+        "title":"HandBages",
+        "price":1500 
+    },
+    {
+        "id": 14,
+        "image": "images/product-18.jpg",
+        "title":"Utility Trousers",
+        "price": 800
+        
+    },
+    {
+        "id": 15,
+        "image":"images/product-16.jpg",
+        "title":"Belts",
+        "price":900 
+        
+    },
+    {
+        "id": 16,
+        "image": "images/g1-jean1.jpg",
+        "title":"White Loose Jean",
+        "price": 2000
+        
+    },
+    {
+        "id":17 ,
+        "image": "images/cap1.jpg",
+        "title":"Sports Cap",
+        "price":700 
+        
+    },
+    {
+        "id": 18,
+        "image": "images/product-15.jpg",
+        "title":"Wide High Jean",
+        "price": 1000
+       
+    },
+    {
+        "id": 19,
+        "image": "images/product-15.jpg",
+        "title":"Windbreaker",
+        "price": 2500
+        
+    },
+    {
+        "id": 20,
+        "image": "images/tshirt2.jpg",
+        "title":"Short-sleeved top",
+        "price":600 
+        
+        
+    },
+    {
+        "id": 21,
+        "image": "images/jean2.jpg",
+        "title":"Jean",
+        "price":1800 
+        
+       
+    },
+    {
+        "id": 22,
+        "image": "images/product-17.jpg",
+        "title":" Cotton T-Shirt",
+        "price": 900
+        
+    },
+    {
+        "id":23 ,
+        "image": "images/tshirt3.jpg",
+        "title":"Loose T-Shirt",
+        "price": 700
+        
+    }
+
+]
